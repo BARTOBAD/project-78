@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Halaman utama / homepage -->
+  <url>
+    <loc>https://direct.me/s78bet</loc>
+    <lastmod>2026-04-08</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://s78bet.id/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Halaman daftar -->
+  <url>
+    <loc>https://s78bet.id/register?referral=bartobad</loc>
+    <lastmod>2026-04-08</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Halaman promo -->
+  <url>
+    <loc>https://member-vip.s78bet.space/promo</loc>
+    <lastmod>2026-04-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Halaman Livechat -->
+  <url>
+    <loc>https://direct.me/s78bet</loc>
+    <lastmod>2026-04-08</lastmod>
+    <priority>0.7</priority>
+  </url>

@@ -1,0 +1,7 @@
+# robots.txt untuk AMP website S78BET
+
+User-agent: *
+Allow: /
+
+# Sitemap URL
+Sitemap: https://bartobad.github.io/project-78/sitemap.xml
